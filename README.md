@@ -9,8 +9,8 @@ Especialista en **email marketing para ecommerce y pymes**, en Barcelona. Más d
 | | |
 |---|---|
 | ![GlobalPrinted](img/globalprinted.jpg)<br>**GlobalPrinted** · 14 emails transaccionales y flujos de WooCommerce con Brevo, a prueba de Outlook | ![Lilly](img/lilly-webinar.jpg)<br>**Lilly** · Flujo de 4 emails para un webinar a profesionales sanitarios |
-| ![Gruppit](img/gruppit.jpg)<br>**Gruppit** · Template modular de 6 bloques que su equipo combina sin tocar código | ![Grup Montaner](img/grup-montaner.jpg)<br>**Grup Montaner** · Newsletters para tres marcas, en HTML a mano |
-| ![Acciona](img/acciona.jpg)<br>**Acciona** · Template del webcast de resultados para inversores | ![Upani](img/upani.jpg)<br>**Upani** · Newsletters de tienda online y auditoría de email |
+| ![Gruppit](img/gruppit.jpg)<br>**Gruppit** · Plantilla modular de 6 bloques que su equipo combina sin tocar código | ![Grup Montaner](img/grup-montaner.jpg)<br>**Grup Montaner** · Newsletters para tres marcas, en HTML a mano |
+| ![Acciona](img/acciona.jpg)<br>**Acciona** · Plantilla del webcast de resultados para inversores | ![Upani](img/upani.jpg)<br>**Upani** · Newsletters de tienda online y auditoría de email |
 | ![Mercedes-Benz](img/mercedes-benz.jpg)<br>**Mercedes-Benz** · Banners animados en HTML5 en 6 formatos | ![LigarHoy](img/ligarhoy.jpg)<br>**LigarHoy** · Prelanding y flujo de 4 emails con afiliación |
 
 ## Herramientas con IA
