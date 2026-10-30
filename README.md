@@ -22,4 +22,4 @@ Especialista en **email marketing para ecommerce y pymes**, en Barcelona. Más d
 
 ## Han confiado en mí
 
-Canon · Decathlon · Esade · Lilly · Mercedes-Benz · Acciona · H10 Hoteles · Ogilvy · Grup Montaner · GlobalPrinted · Gruppit · Upani · Hallon · Experian CheetahMail
+Canon · Decathlon · Esade · Lilly · Mercedes-Benz · Acciona · H10 Hoteles · Grup Montaner · GlobalPrinted · Gruppit · Upani · Hallon · Experian CheetahMail · Salvat · Random House Mondadori · Eroski · Grohe · BIC · L'Auditori
